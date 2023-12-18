@@ -6,3 +6,8 @@
 .hero-img{
     border-radius: 100%;
 }
+
+.card img{
+    height: 300px;
+    width: auto;
+}
